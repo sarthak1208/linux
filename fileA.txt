@@ -3,3 +3,4 @@ new file
 bug
 bug2
 feature 1 with 2 bugs feautre 2 wip
+feature
